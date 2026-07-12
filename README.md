@@ -1,0 +1,2 @@
+# .github
+Holds organisational purpose
